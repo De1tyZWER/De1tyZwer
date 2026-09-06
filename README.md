@@ -10,11 +10,6 @@
 <br>🛠️ Инструменты: VS Code, OSPanel, phpMyAdmin, Git, 1C:Предприятие 
 <br>🌍 Среды: Linux, Windows; локальные серверы (AMPPS, Open Server), Apache 2.4, IIS
 
-<h2>🚀 В данный момент работаю над:</h2>
-<br>1. Модернизацией, поддержкой и развитием официального сайта колледжа и внутренних информационных систем (kamtk.ru) (1С:Предприятие).
-<br>2. Подготовкой студентов к демоэкзамену, школьников к экзаменам (ОГЭ) и участию в международных профессиональных конкурсах.
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/14goddess88) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/De1tyZWER) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@deityorgoddess) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/de1ty228) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@de1ty28) 
 
